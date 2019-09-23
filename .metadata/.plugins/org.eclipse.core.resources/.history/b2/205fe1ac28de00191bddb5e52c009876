@@ -1,0 +1,10 @@
+package humanity.page.tests;
+
+public class HumanityLoginTests {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="humanity.page.objects.HumanityHome"/>
+    <fullyQualifiedTypeName name="humanity.page.objects.HumanityMenu"/>
+    <fullyQualifiedTypeName name="humanity.page.tests.HumanityLoginTests"/>
+    <fullyQualifiedTypeName name="humanity.page.objects.HumanityStaff"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="humanity.page.tests.HumanityAddNewEmployeeTests"/>
+</qualifiedTypeNameHistroy>

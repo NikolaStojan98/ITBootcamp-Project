@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+/home/nikola/eclipse-projekat/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+1166713545.index
+3695473992.index
+1051593933.index
+1108316163.index
+418840616.index
+322496387.index
+976122893.index
