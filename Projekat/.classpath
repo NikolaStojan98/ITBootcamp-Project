@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="rs.itbootcamp"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -12,5 +12,21 @@
 	<classpathentry kind="lib" path="/home/nikola/Desktop/Selenium/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="/home/nikola/Desktop/Selenium/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="/home/nikola/Desktop/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/poi-excelant-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/resolver.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/xalan.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/xbean.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/xbeans.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/xerces.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/xmlpublic.jar"/>
+	<classpathentry kind="lib" path="/home/nikola/Desktop/POI/xsltc.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
